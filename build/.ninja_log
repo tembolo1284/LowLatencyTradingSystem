@@ -1,0 +1,17 @@
+# ninja log v5
+0	190	1719581074753374213	CMakeFiles/LowLatencyTradingSystem.dir/src/Utils/Logger.cpp.o	e34b4540efcf0507
+0	201	1719581347843365544	CMakeFiles/LowLatencyTradingSystem.dir/src/main.cpp.o	37f59cde7f7f41f8
+1	335	1719581020333377995	CMakeFiles/LowLatencyTradingSystem.dir/src/Utils/Config.cpp.o	471191e2a49349fd
+201	333	1719581347983365539	LowLatencyTradingSystem	f8faf044876f4eb
+0	336	1719581020333377995	CMakeFiles/LowLatencyTradingSystem.dir/src/RiskManagement.cpp.o	484c6e94a7413358
+0	339	1719581020343377993	CMakeFiles/LowLatencyTradingSystem.dir/src/MarketDataHandler.cpp.o	cb3d2ae24a09d68
+1	341	1719581020343377993	CMakeFiles/LowLatencyTradingSystem.dir/src/Strategy.cpp.o	197d37c6e26d13e2
+0	350	1719581020353377994	CMakeFiles/LowLatencyTradingSystem.dir/src/OrderExecutionEngine.cpp.o	c5fbf2e8c998c486
+1	264	1719581643803349966	CMakeFiles/LowLatencyTradingSystem.dir/src/main.cpp.o	80eb1400922af43b
+1	276	1719581643813349967	CMakeFiles/LowLatencyTradingSystem.dir/src/MarketDataHandler.cpp.o	d5986349a6a98d98
+1	279	1719581643823349965	CMakeFiles/LowLatencyTradingSystem.dir/src/OrderExecutionEngine.cpp.o	19cd6fa33c815f62
+2	285	1719581643823349965	CMakeFiles/LowLatencyTradingSystem.dir/src/Utils/Logger.cpp.o	f26f6dd930c3bff
+1	288	1719581643823349965	CMakeFiles/LowLatencyTradingSystem.dir/src/RiskManagement.cpp.o	b7ee23cf0164d194
+2	290	1719581643833349966	CMakeFiles/LowLatencyTradingSystem.dir/src/Strategy.cpp.o	bf394d053b345c50
+2	299	1719581643843349964	CMakeFiles/LowLatencyTradingSystem.dir/src/Utils/Config.cpp.o	7bdba8386a4a9160
+299	449	1719581643993349956	LowLatencyTradingSystem	f8faf044876f4eb
