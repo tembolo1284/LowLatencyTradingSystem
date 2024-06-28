@@ -7,23 +7,41 @@ LowLatencyTradingSystem is a C++20 project designed to implement a low latency t
 The project is organized into several key components, each responsible for different aspects of the trading system. Below is the directory structure and a brief description of each component:
 
 LowLatencyTradingSystem/
+
 ├── CMakeLists.txt
+
 ├── src/
+
 │ ├── main.cpp
+
 │ ├── MarketDataHandler.cpp
+
 │ ├── OrderExecutionEngine.cpp
+
 │ ├── RiskManagement.cpp
+
 │ ├── Strategy.cpp
+
 │ └── Utils/
+
 │ ├── Logger.cpp
+
 │ └── Config.cpp
+
 └── include/
+
 ├── MarketDataHandler.h
+
 ├── OrderExecutionEngine.h
+
 ├── RiskManagement.h
+
 ├── Strategy.h
+
 └── Utils/
+
 ├── Logger.h
+
 └── Config.h
 
 
@@ -67,6 +85,7 @@ To build the project, you need to have CMake and Ninja build system installed. F
    cmake --build build
 
 4. Run the executable:
+   ```bash
    ./build/LowLatencyTradingSystem
 
 ### Dependencies
